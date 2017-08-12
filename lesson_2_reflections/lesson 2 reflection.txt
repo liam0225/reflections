@@ -1,0 +1,5 @@
+lesson 2 reflection
+staging area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is a temp locations where files can be added to work on before a commit is made and without altering the original file. The value of it is that is will not alter the original file and give you access to mofifying the file.
