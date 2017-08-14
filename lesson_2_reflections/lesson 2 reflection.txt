@@ -7,3 +7,7 @@ The staging area is a temp locations where files can be added to work on before 
 how can you use the staging area to make sure you have one commit per logical change?
 
 You cand use the staging area to compare files use git diff and git diff --staged which let you compare your stage area with your working directory and your first commit to the staging area. That way you can compare files and see that you are making sure you have one logical commit per change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help keep your history organized by allowing you to create another version of the original file. This allows you to test features that you may or may not apply to the orginal file without altering the master file.
