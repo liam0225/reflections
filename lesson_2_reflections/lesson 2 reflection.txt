@@ -11,3 +11,7 @@ You cand use the staging area to compare files use git diff and git diff --stage
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches help keep your history organized by allowing you to create another version of the original file. This allows you to test features that you may or may not apply to the orginal file without altering the master file.
+
+How do diagrams help you visualize he branch structure?
+ 
+Diagrams help you see the path to the parent id of a commit. It also allows you to see why a commit would be unreachable by the most recent commit if it was a checkout from and earlier commit and a new branch was created.
