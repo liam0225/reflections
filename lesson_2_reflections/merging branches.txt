@@ -1,0 +1,5 @@
+merging branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging two branches together combines all the commits from the branches tha were combined and sets the commits in order of their time stamp. Mergers are represented in the diagram with other branches attached to the main branch since mostly all the branches will end up merging with the master branch. It is refered to as merging x branch to the master branch.
