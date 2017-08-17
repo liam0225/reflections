@@ -1,0 +1,5 @@
+manual vs. automatic pull
+
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
+
+Pulling changes manually help to keep files and commits up to date and it gives you the flexibility to decide when you want the file if a file is not complete you dont have to pull it until you are ready.
