@@ -1,0 +1,5 @@
+collaboration using Git and GitHub
+
+How would you collaborate without using Git and GitHub? What would be easier, and what would be harder?
+
+Without using Git or GitHub probably email would be the next best thing for communicating on projects. It would be harder to look and trying to find errors in code or look at changes made by someone else. Trying to find differeces or experimenting different features would be a nightmare keeping track of what everybody else is doing.
