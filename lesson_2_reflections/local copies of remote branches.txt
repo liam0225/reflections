@@ -1,0 +1,5 @@
+local copies of remote branches
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+If you ever go offline having a copy of the last known state of the remote store locally helps see any recent changes some one made to the file while you were offline and can continue to work from that point.
