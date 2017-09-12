@@ -1,0 +1,5 @@
+when to use a seperate branch
+
+when would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+
+Making changes on a seperate branch helps when you are trying to make modifications that you are not sure if you are keeping. You can work on a feature or make a change without altering the original branch. Working on the master branch allows you to see if the changes made will work right away as oppose to merging and finding out there is a conflict later with the two files.
